@@ -8,6 +8,8 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	//한글 한글 
 	int 한글;
+
+	//aaaaa
 	return 0;
 }
 
